@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.2e2dc4e3.css",
-    "main.js": "/static/js/main.185a0a6f.js",
-    "static/js/453.2b4eda57.chunk.js": "/static/js/453.2b4eda57.chunk.js",
-    "index.html": "/index.html",
-    "main.2e2dc4e3.css.map": "/static/css/main.2e2dc4e3.css.map",
-    "main.185a0a6f.js.map": "/static/js/main.185a0a6f.js.map",
-    "453.2b4eda57.chunk.js.map": "/static/js/453.2b4eda57.chunk.js.map"
+    "main.css": "/toyproject-gymlist/static/css/main.2e2dc4e3.css",
+    "main.js": "/toyproject-gymlist/static/js/main.27801a30.js",
+    "static/js/453.2b4eda57.chunk.js": "/toyproject-gymlist/static/js/453.2b4eda57.chunk.js",
+    "index.html": "/toyproject-gymlist/index.html",
+    "main.2e2dc4e3.css.map": "/toyproject-gymlist/static/css/main.2e2dc4e3.css.map",
+    "main.27801a30.js.map": "/toyproject-gymlist/static/js/main.27801a30.js.map",
+    "453.2b4eda57.chunk.js.map": "/toyproject-gymlist/static/js/453.2b4eda57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e2dc4e3.css",
-    "static/js/main.185a0a6f.js"
+    "static/js/main.27801a30.js"
   ]
 }
